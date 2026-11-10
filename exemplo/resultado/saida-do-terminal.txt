@@ -1,0 +1,8 @@
+$ ../loop.sh parse-price
+Escalação: refina codex; implementa claude
+Rodada 1: VEREDITO: BLOCKED
+Rodada 2: VEREDITO: PASS
+Fechou. Parecer em docs/qa/parse-price-review-r2.md. O aceite é seu.
+$ AUDITA=codex IMPLEMENTA=claude ../seguranca.sh parse-price
+Camada 0: Dependências de produção (npm audit --omit=dev): 0 altas ou críticas, 0 moderadas ou baixas.
+VEREDITO: PASS_WITH_RISK. Parecer em docs/qa/parse-price-seguranca.md.

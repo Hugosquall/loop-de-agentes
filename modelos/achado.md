@@ -1,0 +1,8 @@
+CX-03 [ABERTO | FECHADO | REABERTO]
+Observado: [o que acontece]
+Esperado: [o que deveria acontecer]
+Impacto: [o que quebra para o usuário ou para o negócio]
+Reprodução: [passo ou comando]
+Onde: [arquivo ou área do código]
+Teste que precisa existir: [cenário]
+Limite da rodada: [só este achado; o próximo recurso fica de fora]

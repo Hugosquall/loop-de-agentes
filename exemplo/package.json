@@ -1,0 +1,6 @@
+{
+  "name": "exemplo-parse-price",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test" }
+}
